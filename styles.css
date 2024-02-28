@@ -1,0 +1,13 @@
+section {
+  background-color: gold;
+  margin: 0 auto;
+  width: 60%;
+  padding: 10rem;
+}
+
+span {
+  color: black;
+  font-size: 5rem;
+  font-weight: 700;
+  text-align: center;
+}
